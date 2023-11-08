@@ -6,7 +6,7 @@
   "pt_system":"RoBERTa-base",
   "use_crf":true,
   "patience":10,
-  "max_epoch":50,
+  "max_epoch":26,
   "use_extra_features":true,
   "extra_feature_layer":-3,
   "vocab_dir": "/content/negation-and-nlu/cue-detector/model/fine-tuned/roberta_base/vocabs.pkl",
