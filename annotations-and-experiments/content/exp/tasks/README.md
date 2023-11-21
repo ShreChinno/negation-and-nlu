@@ -1,1 +1,0 @@
-The NLU corpora will be stored in this directory (upon completion of the "download_tasks.py" script).

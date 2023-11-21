@@ -1,1 +1,0 @@
-The necessary files of RoBERTa-base model will be stored in this directory (upon completion of the "download_tasks.py" script).
